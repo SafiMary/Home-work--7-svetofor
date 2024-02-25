@@ -1,0 +1,41 @@
+body{
+
+}
+
+#block{
+    margin: 50px 300px;
+    padding: 10px;
+    width: 250px;
+    height:500px;
+    background-color: rgb(246, 251, 251);
+    
+   border-radius: 30px;
+   border: 2px solid  rgb(19, 18, 18);
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+button{
+    margin: 600px 390px;
+
+    width: 80px;
+    height: 40px;
+
+    text-align:center;
+    background-color: rgb(246, 251, 251);
+    position: fixed;
+}
+.circle{
+    margin: 30px 60px;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(246, 251, 251);
+
+   border-radius: 60px;
+   border: 2px solid  rgb(19, 18, 18);
+
+  
+
+}
